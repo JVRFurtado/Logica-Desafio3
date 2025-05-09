@@ -45,15 +45,17 @@ o ninja atacou usando shuriken
 
 ## 📁 Arquivo
 
-index.js — Contém a definição da classe e os testes com diferentes personagens.
+  * index.js — Contém a definição da classe e os testes com diferentes personagens.
 
 ## 🛠️ Tecnologias utilizadas
 
-JavaScript (Node.js)
-Editor de código (como VSCode)
+  * JavaScript (Node.js)
+  * VSCode (Editor de Código)
 
 ## 👨‍🎓 Autor
 
 Desenvolvido por mim como parte dos desafios práticos da formação em programação da DIO.
+
+---
 
 📘 Um projeto introdutório à Programação Orientada a Objetos com foco em classes, métodos e instância de objetos!
